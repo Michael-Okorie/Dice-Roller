@@ -24,7 +24,7 @@ Here’s a preview of the Dice Roller in action:
 
 ## Live Demo
 
-- [Live Site](https://yourusername.github.io/dice-roller-app)  
+- [Live Site]( https://michael-okorie.github.io/Dice-Roller/)  
 - [GitHub Repo](https://github.com/Michael-Okorie/Dice-Roller.git)
 
 ---
