@@ -1,7 +1,8 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.2em;
-
+    position: relative;
+    padding-bottom: 150px;
 }
 
 #container{
